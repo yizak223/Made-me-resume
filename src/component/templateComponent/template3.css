@@ -1,0 +1,19 @@
+.template3{
+    font-size: 5px;
+    color: #aeafb0;
+    background-color: rgb(255, 255, 255);
+    height: 65vh;
+    width: 25vw;
+    box-sizing: border-box;
+    margin-top: 0 ;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    transition: 0.5s;
+}
+.template3:hover{
+    opacity: 1;
+    transform: translateY(-5px);
+    transition: 0.5s;
+}
