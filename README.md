@@ -17,7 +17,7 @@
    <li> <b>Write With AI</b>  Implementation AI, so the user can create the resume with the help of AI</li> 
 </ul>
 
-<h1>echnologies Used</h1>
+<h1>Technologies Used</h1>
   <h3>Front-End</h3>
     <li>Html, Css</li>
     <li>React.js</li>
